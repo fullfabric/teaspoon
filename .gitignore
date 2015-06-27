@@ -5,6 +5,8 @@ tmp
 coverage
 export
 
+vendor/bundle
+
 log/*.log
 spec/dummy/log/*.log
 spec/dummy/tmp/
